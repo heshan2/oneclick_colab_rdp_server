@@ -1,3 +1,6 @@
+ - Google Colab can give you Instance with 12GB of RAM and GPU for 12 hours (Max) for Free users. Anyone can use it to perform Heavy Tasks.
+
+## Readme
  - Create User
  - Don't use username : `root`
  - Authenticate Through [Remote Desktop Headless](http://remotedesktop.google.com/headless)<br>Dont Download any file simply proceed directly to authenticate button. When you got a command copy and paste it to RDP code block and complete the process by setting up a Pin.
